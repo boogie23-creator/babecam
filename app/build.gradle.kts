@@ -12,8 +12,8 @@ android {
         applicationId = "com.babecam.carenote"
         minSdk = 26
         targetSdk = 34
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "0.1.1"
         // AI(Gemini) API 키는 코드에 넣지 않는다. 앱 설정 화면에서 사용자가 입력 → 휴대폰에만 저장.
     }
 
